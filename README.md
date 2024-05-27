@@ -4,3 +4,5 @@ Alteração feita
 
 Nome: Maria Clara Souza
 Curso: Python
+
+## Muito bem Maria Clara, @AdrianoReges
